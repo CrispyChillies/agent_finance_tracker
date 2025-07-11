@@ -1,0 +1,7 @@
+joblib==1.5.1
+numpy==2.3.1
+pandas==2.3.1
+scikit_learn==1.7.0
+sentence_transformers==5.0.0
+speechrecognition==3.14.3
+streamlit==1.46.1
