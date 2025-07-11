@@ -1,0 +1,30 @@
+__label__Ăn_uống Mua bún bò 30 nghìn
+__label__Đi_lại Đi taxi về nhà
+__label__Mua_sắm Mua áo sơ mi mới
+__label__Ăn_uống Ăn sáng ở tiệm gần nhà
+__label__Đi_lại Đổ xăng xe máy
+__label__Du_lịch Đặt vé máy bay đi Đà Nẵng
+__label__Mua_sắm Mua sữa cho con
+__label__Ăn_uống Đi uống trà sữa với bạn
+__label__Hóa_đơn Thanh toán tiền điện
+__label__Giáo_dục Mua sách học lập trình
+__label__Thuê_nhà Trả tiền thuê nhà tháng này
+__label__Đi_lại Gửi xe ở trung tâm thương mại
+__label__Ăn_uống Ăn trưa ở công ty
+__label__Mua_sắm Mua giày thể thao
+__label__Hóa_đơn Thanh toán tiền nước
+__label__Mua_sắm Mua đồ chơi cho bé
+__label__Giáo_dục Học phí tiếng Anh
+__label__Hóa_đơn Tiền internet tháng 7
+__label__Du_lịch Thuê phòng khách sạn
+__label__Ăn_uống Ăn tối ngoài hàng
+__label__Ăn_uống Uống cà phê sáng 25k
+__label__Đi_lại Mua vé xe buýt đi làm
+__label__Mua_sắm Mua điện thoại mới
+__label__Hóa_đơn Đóng tiền cáp truyền hình
+__label__Du_lịch Đặt tour du lịch Hạ Long
+__label__Giáo_dục Đăng ký khóa học Python online
+__label__Thuê_nhà Đóng tiền thuê căn hộ tháng này
+__label__Ăn_uống Mua bánh mì và nước ngọt
+__label__Đi_lại Trả tiền gửi xe máy
+__label__Mua_sắm Mua quà sinh nhật cho bạn
